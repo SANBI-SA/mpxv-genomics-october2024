@@ -116,10 +116,9 @@ The course is a two week (10 days) programme of in-person instruction combining 
 
 ## Partners
 
-This course is being organised by the [Africa CDC](https://africacdc.org) (the Africa Centres for Disease Control and Prevention), part of the African Union (AU), together with the [NGS Academy](https://uct-cbio.github.io/ngs-academy/) based at [CBIO](https://health.uct.ac.za/computational-biology/) (the Computational Biology Department at the University of Cape Town).
+This course is being organised by the [Africa CDC](https://africacdc.org) (the Africa Centres for Disease Control and Prevention), together with the [NGS Academy](https://uct-cbio.github.io/ngs-academy/) based at [CBIO](https://health.uct.ac.za/computational-biology/) (the Computational Biology Department at the University of Cape Town).
 
-<p float="left">
-  <img src="img/african_union_logo.svg" width="32%" align="top">
-  <img src="img/africacdc_logo.svg" width="32%" align="top">
-  <img src="img/uct-logo.svg" width="32%" align="top">
+<p style="display: flex; justify-content: center; align-items: center;">
+  <img src="img/africacdc_logo.png" width="48%" align="top">
+  <img src="img/uct-logo.svg" width="48%" align="top">
 </p>
