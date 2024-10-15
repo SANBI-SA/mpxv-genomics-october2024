@@ -32,11 +32,12 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>09h00</td>
-    <td>Introduction Unix/Linux, command line, shell scripting </td>
-    <td>Package management with Conda </td>
-    <td>Containers</td>
-    <td>Nextflow</td>
-    <td>R</td>
+    <td>Installation and set-up:Epi2Me desktop </td>
+    <td>Installation and set-up continued: artic-mpxv-illumina-nf, hostile, nextclade & IGV
+ </td>
+    <td>Introduction to Unix/Linux, the Command Line and Shell Scripting</td>
+    <td>Introduction to Conda</td>
+    <td>Workflow systems and Nextflow</td>
   </tr>
   <tr class="break">
     <td>11h00</td>
@@ -44,11 +45,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>11h30</td>
-    <td>Introduction Unix/Linux, command line, shell scripting </td>
-    <td>Package management with Conda </td>
-    <td>Containers</td>
-    <td>Nextflow</td>
-    <td>R</td>
+    <td>Installation and set-up: Epi2Me desktop </td>
+    <td>Installation and set-up continued:  artic-mpxv-illumina-nf, hostile, nextclade & IGV </td>
+    <td>Introduction to Unix/Linux, the Command Line and Shell Scripting</td>
+    <td>Introduction to Conda</td>
+    <td>Workflow systems and Nextflow</td>
   </tr>
   <tr class="break">
     <td>13h00</td>
@@ -56,11 +57,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>14h00</td>
-    <td>Introduction Unix/Linux, command line, shell scripting</td>
-    <td>Package management with Conda</td>
-    <td>Containers</td>
-    <td>R</td>
-    <td>R</td>
+    <td>Installation and set-up: Epi2Me desktop </td>
+    <td>Installation and set-up continued: artic-mpxv-illumina-nf, hostile, nextclade & IGV</td>
+    <td>Introduction to Unix/Linux, the Command Line and Shell Scripting</td>
+    <td>Introduction to Containers and Docker</td>
+    <td>Workflow systems and Nextflow</td>
   </tr>
 </table>
 
@@ -80,11 +81,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>09h00</td>
-    <td>R</td>
-    <td>Galaxy</td>
-    <td>Cholera case study</td>
-    <td>Cholera case study</td>
-    <td>Bioinformatics networking</td>
+    <td>Introduction to Genome Epi</td>
+    <td>Introduction to Phylogenetics</td>
+    <td>Group work on project</td>
+    <td>Group work on project</td>
+    <td>Presentations of projects</td>
   </tr>
   <tr class="break">
     <td>11h00</td>
@@ -92,11 +93,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>11h30</td>
-    <td>R</td>
-    <td>Galaxy</td>
-    <td>Cholera case study</td>
-    <td>Cholera case study</td>
-    <td>Bioinformatics networking</td>
+    <td>Introduction to Genome Epi</td>
+    <td>Introduction to Phylogenetics</td>
+    <td>Group work on project</td>
+    <td>Group work on project</td>
+    <td>Presentations of projects</td>
   </tr>
   <tr class="break">
     <td>13h00</td>
@@ -104,11 +105,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>14h00</td>
-    <td>Galaxy</td>
-    <td>Cholera case study</td>
-    <td>Cholera case study</td>
-    <td>Cholera case study</td>
-    <td>Bioinformatics networking</td>
+    <td>Introduction to Microreact for dashboards</td>
+    <td>Introduction to building phylogeny using Squirrel & IQ-TREE</td>
+    <td>Group work on project</td>
+    <td>Group work on project</td>
+    <td>Presentations of projects</td>
   </tr>
 </table>
 
@@ -119,6 +120,6 @@ The course is a two week (10 days) programme of in-person instruction combining 
 This course is being organised by the [Africa CDC](https://africacdc.org) (the Africa Centres for Disease Control and Prevention), together with the [NGS Academy](https://uct-cbio.github.io/ngs-academy/) based at [CBIO](https://health.uct.ac.za/computational-biology/) (the Computational Biology Department at the University of Cape Town).
 
 <p style="display: flex; justify-content: center; align-items: center;">
-  <img src="img/africacdc_logo.png" width="48%" align="top">
-  <img src="img/uct-logo.svg" width="48%" align="top">
+  <!-- <img src="img/africacdc_logo.png" width="48%" align="top">
+  <img src="img/uct-logo.svg" width="48%" align="top"> -->
 </p>
