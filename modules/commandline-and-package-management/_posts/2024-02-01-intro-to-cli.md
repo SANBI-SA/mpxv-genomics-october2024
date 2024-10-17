@@ -3,10 +3,7 @@ title: Introduction to Linux and the Bash shell
 ---
 ### Introduction to Linux
 
-These lessons will focus on drawing together and supplementing existing resources on using Bash and common command line utilities.
-The Bash shell is typically used as part of the Linux or MacOS operating systems and while both of these operating systems share
-a common origin in the Unix of the 1970s, 80s and 90s, there are also some differences between Linux and MacOS that we will
-note as we go along.
+Discover the power of Bash and command line utilities in this comprehensive series. Designed to consolidate and enhance existing resources, these lessons cater to both Linux and MacOS users. While exploring the shared Unix heritage of these operating systems, we'll also highlight their unique features and differences. Whether you're a beginner or looking to refine your skills, this course will equip you with essential knowledge for efficient command line navigation and scripting.
 
 Unix Tutorials
 
