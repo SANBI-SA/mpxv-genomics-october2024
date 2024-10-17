@@ -115,8 +115,8 @@ Outline:
 <li></li>
 <li></li>
 </ol>
-
-[MPOX Workshop](/uploads/phylogenetics/mpox.workshop.ifeanyi.pptx)
+<!-- 
+[MPOX Workshop](/uploads/phylogenetics/mpox.workshop.ifeanyi.pptx) -->
 
 
 [Phylogenetics Dataset ](/uploads/phylogenetics/phylogenetics_dataset.zip)
