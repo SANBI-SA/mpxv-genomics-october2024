@@ -5,7 +5,7 @@ title: Introduction to Linux and the Bash shell
 
 Discover the power of Bash and command line utilities in this comprehensive series. Designed to consolidate and enhance existing resources, these lessons cater to both Linux and MacOS users. While exploring the shared Unix heritage of these operating systems, we'll also highlight their unique features and differences. Whether you're a beginner or looking to refine your skills, this course will equip you with essential knowledge for efficient command line navigation and scripting.
 
-Unix Tutorials
+<!-- Unix Tutorials
 
 [Introduction to Linux-English](/uploads/unix/IntroLinux_English.pptx)
 
@@ -15,7 +15,7 @@ Unix Tutorials
 
 [Sample Files](/uploads/unix/Sample_Files-20241017T170335Z-001.zip)
 
-[Linux Cheat Sheet](/uploads/unix/CheatSheets_linux+bashcript.pdf)
+[Linux Cheat Sheet](/uploads/unix/CheatSheets_linux+bashcript.pdf) -->
 
 ### Resources
 

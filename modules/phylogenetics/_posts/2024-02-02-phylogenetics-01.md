@@ -29,7 +29,7 @@ Outline:
 
 
 
-[Introduction to Genomic Epidemiology_English_French](/uploads/phylogenetics/Introduction_to_Genomic_Epidemiology_English_French.pptx)
+<!-- [Introduction to Genomic Epidemiology_English_French](/uploads/phylogenetics/Introduction_to_Genomic_Epidemiology_English_French.pptx) -->
 
 #### Theory 2: Pathogen variants and Evolutionary Theory
 
@@ -40,7 +40,7 @@ Outline:
 <li>Evolution within and between hosts</li>
 </ol>
 
-[Pathogen variants and Evolutionary Theory](/uploads/phylogenetics/Introduction_to_Genomic_Epidemiology_English_French.pptx)
+<!-- [Pathogen variants and Evolutionary Theory](/uploads/phylogenetics/Introduction_to_Genomic_Epidemiology_English_French.pptx) -->
 
 #### Analysis 1: Manipulating Genomic Data
 Outline:
@@ -51,7 +51,7 @@ Outline:
 <li>The importance of multiple sequence alignment</li>
 </ol>
 
-[Manipulating Genomic Data](/uploads/phylogenetics/Analysis_1_ManipulatingGenomicData_Final.pptx)
+<!-- [Manipulating Genomic Data](/uploads/phylogenetics/Analysis_1_ManipulatingGenomicData_Final.pptx) -->
 
 #### Analysis 3: Multisequence Alignment
 Outline:
@@ -60,8 +60,8 @@ Outline:
 <li>Multi sequence alignment</li>
 <li>Run a phylogenetic analysis</li>
 </ol>
-
-[Multisequence Alignment](/uploads/phylogenetics/Analysis_3_MultipleSequenceAlignment_Final.pptx)
+<!-- 
+[Multisequence Alignment](/uploads/phylogenetics/Analysis_3_MultipleSequenceAlignment_Final.pptx) -->
 
 
 #### Analysis 4: Introduction to Phylogenetics
@@ -73,7 +73,7 @@ Outline:
 <li>For pathogens, we can use their genomes to see how they are spreading through space and time</li>
 </ol>
 
-[Introduction to Phylogenetics](/uploads/phylogenetics/Analysis_4_IntroPhylogenetics_Final.pptx)
+<!-- [Introduction to Phylogenetics](/uploads/phylogenetics/Analysis_4_IntroPhylogenetics_Final.pptx) -->
 
 
 
@@ -85,7 +85,7 @@ Outline:
 <li>Bootstrap</li>
 </ol>
 
-[Building Maximum Likelihood Trees](/uploads/phylogenetics/Analysis_5_BuildingMaximumLikelihoodTrees_Final.pptx)
+<!-- [Building Maximum Likelihood Trees](/uploads/phylogenetics/Analysis_5_BuildingMaximumLikelihoodTrees_Final.pptx) -->
 
 #### Analysis 6: Visualising  Phylogenetic Trees
 Outline:
@@ -95,7 +95,7 @@ Outline:
 <li></li>
 </ol>
 
-[Visualising  Phylogenetic Trees](/uploads/phylogenetics/Analysis_6_VisualizingPhylogeneticTrees_formatted.pptx)
+<!-- [Visualising  Phylogenetic Trees](/uploads/phylogenetics/Analysis_6_VisualizingPhylogeneticTrees_formatted.pptx) -->
 
 #### Application of phylogenetics
 
@@ -106,7 +106,7 @@ Outline:
 <li></li>
 </ol>
 
-[Application of phylogenetics](/uploads/phylogenetics/Application_of_phylogenetics.pptx)
+<!-- [Application of phylogenetics](/uploads/phylogenetics/Application_of_phylogenetics.pptx) -->
 
 #### MPOX Workshop
 Outline:
@@ -118,5 +118,5 @@ Outline:
 <!-- 
 [MPOX Workshop](/uploads/phylogenetics/mpox.workshop.ifeanyi.pptx) -->
 
-
-[Phylogenetics Dataset ](/uploads/phylogenetics/phylogenetics_dataset.zip)
+<!-- 
+[Phylogenetics Dataset ](/uploads/phylogenetics/phylogenetics_dataset.zip) -->
