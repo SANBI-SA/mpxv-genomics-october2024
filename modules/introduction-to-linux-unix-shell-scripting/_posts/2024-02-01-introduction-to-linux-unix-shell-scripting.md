@@ -18,20 +18,29 @@ Discover the power of Bash and command line utilities in this comprehensive seri
 [Linux Cheat Sheet](/uploads/unix/CheatSheets_linux+bashcript.pdf) -->
 
 ### Workshop Resources
+1. <a href="/uploads/unix/day_3_IntroLinux_En.pdf" target="_blank">Introduction to Linux-English</a> 
 
-[Introduction to Linux-English](/uploads/unix/day_3_IntroLinux_En.pdf)
-
-[Introduction to Shell programming](/uploads/unix/day_3_Shell_PL_En.pdf)
+2. <a href="/uploads/unix/day_3_Shell_PL_En.pdf" target="_blank">Introduction to Shell programming</a>
 
 ### Additional Resources
 
-
-| Shell & Terminal                                                                | Linux & Tools                                                                                     |
-|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-|1. [The Carpentries Shell Lesson](https://swcarpentry.github.io/shell-novice/)     | 1. [The Baeldung Linux Guides](https://www.baeldung.com/linux/)                                     |
-|2. [Terminal Basics from Sandbox.Bio](https://sandbox.bio/tutorials/terminal-basics) | 2. [Grep, Sed and Awk](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/)        |
-|3. [Bash Scripting](https://www.linode.com/docs/guides/intro-bash-shell-scripting/)| 3. [Bashcrawl - an adventure in Bash exploration](https://gitlab.com/slackermedia/bashcrawl)        |
-|4. [Data Exploration with Awk](https://sandbox.bio/tutorials/awk-intro)             | 4. [Linux Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/)                   |
-
+<div class="row">
+   <div class="col-sm-4 text-start">
+       <ul class="">
+           <li><a href="https://swcarpentry.github.io/shell-novice/" target="_blank" rel="noopener noreferrer">The Carpentries Shell Lesson</a></li>
+           <li><a href="https://sandbox.bio/tutorials/terminal-basics" target="_blank" rel="noopener noreferrer">Terminal Basics from Sandbox.Bio</a></li>
+           <li><a href="https://www.linode.com/docs/guides/intro-bash-shell-scripting/" target="_blank" rel="noopener noreferrer">Bash Scripting</a></li>
+           <li><a href="https://sandbox.bio/tutorials/awk-intro" target="_blank" rel="noopener noreferrer">Data Exploration with Awk</a></li>
+       </ul>
+   </div>
+   <div class="col-sm-4 text-start">
+       <ul class="">
+           <li><a href="https://www.baeldung.com/linux/" target="_blank" rel="noopener noreferrer">The Baeldung Linux Guides</a></li>
+           <li><a href="https://www.linode.com/docs/guides/differences-between-grep-sed-awk/" target="_blank" rel="noopener noreferrer">Grep, Sed and Awk</a></li>
+           <li><a href="https://gitlab.com/slackermedia/bashcrawl" target="_blank" rel="noopener noreferrer">Bashcrawl - an adventure in Bash exploration</a></li>
+           <li><a href="https://www.geeksforgeeks.org/linux-commands-cheat-sheet/" target="_blank" rel="noopener noreferrer">Linux Cheat Sheet</a></li>
+       </ul>
+   </div>
+</div>
 
 
