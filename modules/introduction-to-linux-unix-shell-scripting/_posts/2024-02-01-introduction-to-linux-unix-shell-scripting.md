@@ -25,7 +25,7 @@ Discover the power of Bash and command line utilities in this comprehensive seri
 ### Additional Resources
 
 <div class="row">
-   <div class="col-sm-4 text-start">
+   <div class="col-sm-5 text-start">
        <ul class="">
            <li><a href="https://swcarpentry.github.io/shell-novice/" target="_blank" rel="noopener noreferrer">The Carpentries Shell Lesson</a></li>
            <li><a href="https://sandbox.bio/tutorials/terminal-basics" target="_blank" rel="noopener noreferrer">Terminal Basics from Sandbox.Bio</a></li>
@@ -33,7 +33,7 @@ Discover the power of Bash and command line utilities in this comprehensive seri
            <li><a href="https://sandbox.bio/tutorials/awk-intro" target="_blank" rel="noopener noreferrer">Data Exploration with Awk</a></li>
        </ul>
    </div>
-   <div class="col-sm-4 text-start">
+   <div class="col-sm-5 text-start">
        <ul class="">
            <li><a href="https://www.baeldung.com/linux/" target="_blank" rel="noopener noreferrer">The Baeldung Linux Guides</a></li>
            <li><a href="https://www.linode.com/docs/guides/differences-between-grep-sed-awk/" target="_blank" rel="noopener noreferrer">Grep, Sed and Awk</a></li>

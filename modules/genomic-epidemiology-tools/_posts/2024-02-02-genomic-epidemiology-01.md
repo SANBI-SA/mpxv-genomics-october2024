@@ -8,10 +8,10 @@ Unravel the evolutionary relationships among organisms with an introduction to p
 
 #### Workshop resources
 
-1. <a href="/uploads/phylogenetics/day_6_genomic_epidemiology.pdf" target="_blank">Genomic Epidemiology</a> 
+1. <a href="/uploads/genomic-epidemiology/day_6_genomic_epidemiology.pdf" target="_blank">Genomic Epidemiology</a> 
 
-2. <a href="/uploads/phylogenetics/day_6_read_and_assembly_qc.pdf" target="_blank">Read and Assembly QC</a>
+2. <a href="/uploads/genomic-epidemiology/day_6_read_and_assembly_qc.pdf" target="_blank">Read and Assembly QC</a>
 
-3. <a href="/uploads/phylogenetics/day_7_multiple_sequence_alignments.pdf" target="_blank">Multiple Sequence Alignment</a>
+3. <a href="/uploads/genomic-epidemiology/day_7_multiple_sequence_alignments.pdf" target="_blank">Multiple Sequence Alignment</a>
 
-4. <a href="/uploads/phylogenetics/day_7_phylogenetic_tree_visualisation.pdf" target="_blank">Phylogenetic Tree Visualisation</a>
+4. <a href="/uploads/genomic-epidemiology/day_7_phylogenetic_tree_visualisation.pdf" target="_blank">Phylogenetic Tree Visualisation</a>
