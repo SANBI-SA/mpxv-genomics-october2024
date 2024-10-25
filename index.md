@@ -83,8 +83,8 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>09h00</td>
-    <td>Introduction to Genome Epi</td>
-    <td>Introduction to Phylogenetics</td>
+    <td><a href="https://www.youtube.com/watch?v=FQt7trw_zTU&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=3" target="_blank">Phylogenetic trees</a> </td>
+    <td><a href="https://www.youtube.com/watch?v=W00EVKP5tm8&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=20" target="_blank">fastq data in Epi2Me</a></td>
     <td>Group work on project</td>
     <td>Group work on project</td>
     <td>Presentations of projects</td>
@@ -95,8 +95,10 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>11h30</td>
-    <td>Introduction to Genome Epi</td>
-    <td>Introduction to Phylogenetics</td>
+    <td><a href="https://www.youtube.com/watch?v=P77qNYgMh9w&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=4" target="_blank">Phylogenetic trees session 2</a><br>
+    <a href=" https://www.youtube.com/watch?v=qLfoacwwtVQ&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=5" target="_blank">Phylogenetic trees session 3</a>
+    </td>
+    <td><a href="https://www.youtube.com/watch?v=gDdNhbuMxk0&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=21" target="_blank">Epi2Me and Genbank database introduction</a></td>
     <td>Group work on project</td>
     <td>Group work on project</td>
     <td>Presentations of projects</td>
@@ -107,8 +109,13 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>14h00</td>
-    <td>Introduction to Microreact for dashboards</td>
-    <td>Introduction to building phylogeny using Squirrel & IQ-TREE</td>
+    <td>
+    <a href="https://www.youtube.com/watch?v=ZVSSFgDAqJs&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=2" target="_blank">Phylogenetic trees session 4</a><br>
+    <a href="https://www.youtube.com/watch?v=Odafq3resOM&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=1" target="_blank">Phylogenetic trees session 5</a>
+    </td>
+    <td><a href="https://www.youtube.com/watch?v=sbyObA5Vmng&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=22" target="_blank"> Phylogenetic figtree visualization tools</a><br>
+    <a href="https://www.youtube.com/watch?v=diRdhdE8I4g&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=23" target="_blank"> Phylogenetic figtree visualization options</a>
+    </td>
     <td>Group work on project</td>
     <td>Group work on project</td>
     <td>Presentations of projects</td>
