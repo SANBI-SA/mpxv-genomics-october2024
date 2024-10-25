@@ -15,7 +15,7 @@ The course is a two week (10 days) programme of in-person instruction combining 
     .break { background: lightblue; }
     .weekheader { background: green; color: white }
 </style>
-
+<div class="table-responsive-sm">
 <table>
   <tr class="weekheader">
     <td colspan="6">
@@ -32,12 +32,12 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>09h00</td>
-    <td>Installation and set-up:Epi2Me desktop </td>
-    <td>Installation and set-up continued: artic-mpxv-illumina-nf, hostile, nextclade & IGV
+    <td><a href="https://www.youtube.com/watch?v=aWQ4-Bj-CZE&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=19" target="_blank">Mpox Introduction</a> </td>
+    <td><a href="https://www.youtube.com/watch?v=nBxXvkRDaW0&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=17" target="_blank">Working with example in Epi2Me with Mpox sample</a> 
  </td>
-    <td>Introduction to Unix/Linux, the Command Line and Shell Scripting</td>
-    <td>Introduction to Conda</td>
-    <td>Workflow systems and Nextflow</td>
+    <td><a href="https://www.youtube.com/watch?v=Fu91OjqVVY8&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=14" target="_blank">Introduction to Unix/Linux Scripting</a></td>
+    <td><a href="https://www.youtube.com/watch?v=quR9BDARcYo&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=11" target="_blank">Shell programming</a></td>
+    <td><a href="https://www.youtube.com/watch?v=ZMK2X1OGWQc&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=8" target="_blank">Shell programming using fastqc files</a></td>
   </tr>
   <tr class="break">
     <td>11h00</td>
@@ -45,11 +45,11 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>11h30</td>
-    <td>Installation and set-up: Epi2Me desktop </td>
-    <td>Installation and set-up continued:  artic-mpxv-illumina-nf, hostile, nextclade & IGV </td>
-    <td>Introduction to Unix/Linux, the Command Line and Shell Scripting</td>
-    <td>Introduction to Conda</td>
-    <td>Workflow systems and Nextflow</td>
+    <td><a href="https://www.youtube.com/watch?v=B62er-d4Fks&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=18" target="_blank">Epi2Me desktop</a>   </td>
+    <td><a href="https://www.youtube.com/watch?v=XQDSwIzbtZs&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=16" target="_blank">Working on Epi2Me Mpox results</a>  </td>
+    <td><a href="https://www.youtube.com/watch?v=x762Itu6KaU&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=15" target="_blank">Working with Consensus Data</a></td>
+    <td><a href="https://www.youtube.com/watch?v=cT3aOAyihN0&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=9" target="_blank">Shell programming, Scritpting, Variables cont...</a></td>
+    <td><a href="https://www.youtube.com/watch?v=B0c2G-ALfyU&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=7" target="_blank">Shell programming using fastqc files cont...</a></td>
   </tr>
   <tr class="break">
     <td>13h00</td>
@@ -57,11 +57,13 @@ The course is a two week (10 days) programme of in-person instruction combining 
   </tr>
   <tr>
     <td>14h00</td>
-    <td>Installation and set-up: Epi2Me desktop </td>
-    <td>Installation and set-up continued: artic-mpxv-illumina-nf, hostile, nextclade & IGV</td>
-    <td>Introduction to Unix/Linux, the Command Line and Shell Scripting</td>
-    <td>Introduction to Containers and Docker</td>
-    <td>Workflow systems and Nextflow</td>
+    <td>Installation and set-up: Epi2Me desktop cont... </td>
+    <td>Working on Epi2Me Mpox results cont ...</td>
+    <td><a href="https://www.youtube.com/watch?v=XgTmY_NfKGE&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=13" target="_blank">Working with the sandbox</a> <br>
+    <a href="https://www.youtube.com/watch?v=K2xL1Se3RHQ&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=12" target="_blank">Working examples</a>
+    </td>
+    <td> <a href="https://www.youtube.com/watch?v=czgJ-f6OiQQ&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=10" target="_blank">Shell scripts</a></td>
+    <td><a href="https://www.youtube.com/watch?v=kYTR0Hdy1HA&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=6" target="_blank">Nextflow</a></td>
   </tr>
 </table>
 
@@ -112,6 +114,10 @@ The course is a two week (10 days) programme of in-person instruction combining 
     <td>Presentations of projects</td>
   </tr>
 </table>
+
+</div>
+
+
 
 <!-- BELOWTHETABLE -->
 
