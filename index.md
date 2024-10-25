@@ -113,8 +113,8 @@ The course is a two week (10 days) programme of in-person instruction combining 
     <a href="https://www.youtube.com/watch?v=ZVSSFgDAqJs&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=2" target="_blank">Phylogenetic trees session 4</a><br>
     <a href="https://www.youtube.com/watch?v=Odafq3resOM&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=1" target="_blank">Phylogenetic trees session 5</a>
     </td>
-    <td><a href="https://www.youtube.com/watch?v=sbyObA5Vmng&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=22" target="_blank"> Phylogenetic figtree visualization tools</a><br>
-    <a href="https://www.youtube.com/watch?v=diRdhdE8I4g&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=23" target="_blank"> Phylogenetic figtree visualization options</a>
+    <td><a href="https://www.youtube.com/watch?v=sbyObA5Vmng&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=22" target="_blank"> Phylogenetic figtree visualization tools session 1</a><br>
+    <a href="https://www.youtube.com/watch?v=diRdhdE8I4g&list=PL0uR29Znf38wK7RyxTiG5_q6o3b8U5_iK&index=23" target="_blank"> Phylogenetic figtree visualization options Session 2</a>
     </td>
     <td>Group work on project</td>
     <td>Group work on project</td>
