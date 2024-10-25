@@ -2,7 +2,7 @@
 title: Mpox Virus Sequence Analysis October 2024
 description: An introductory course on Mpox Virus Sequence Analysis for Genomic Epidemiology
 modules: 
-  - "commandline-and-package-management"
+  - "introduction-to-linux-unix-shell-scripting"
   - "intro-to-mpxv-and-epi2me"
   - "genomic-epidemiology-tools"
   - "phylogenetics"
